@@ -1,4 +1,4 @@
-# CRM
+# CRM Work Experience
 Customer Relationship Management (CRM) is a strategic approach businesses use to manage interactions with current and potential customers. It leverages technology, data, and processes to enhance customer satisfaction, loyalty, and overall experience.
 
 ## How would you describe your experience with CRM software?
@@ -7,13 +7,13 @@ We use a CRM system developed by a team of IT engineers based on open-source sof
 ## What factors indicate the need to consider a CRM software program?
 Based on my previous experience, the cost structure of a CRM system is an important consideration. User-friendliness also plays a significant role. Customers want simple data management and easy data retrieval. The functionality and effectiveness of the CRM are crucial. For example, our company places a high value on customer information and communication. A customized version of Monday is sufficient for team collaboration. However, when more complex features were required, we developed an additional simple system to implement them. In summary, it’s about how a CRM application can reduce costs and improve customer satisfaction.
 
-## CRM systems
+## Typical CRM systems
 CRM System	Advantages	Disadvantages
-HubSpot	User-friendly, free plan, scalable, all-in-one solution	Limited customization, expensive as the business grows, complex reporting at lower levels
-Salesforce	Highly customizable, comprehensive features, scalable, powerful AI	Steep learning curve, expensive, complex implementation
-Monday.com	Visual interface, flexible, great for team collaboration	Limited advanced CRM features, costly add-ons, scaling limitations
-Dynamics 365	Integration with the Microsoft ecosystem, customizable, AI-driven	Complex setup, expensive, best suited for users within the Microsoft stack
-Pipedrive	Sales-oriented, user-friendly, cost-effective	Limited features outside sales, less customization options, no free version
+HubSpot:	User-friendly, free plan, scalable, all-in-one solution	Limited customization, expensive as the business grows, complex reporting at lower levels
+Salesforce:	Highly customizable, comprehensive features, scalable, powerful AI	Steep learning curve, expensive, complex implementation
+Monday.com:	Visual interface, flexible, great for team collaboration	Limited advanced CRM features, costly add-ons, scaling limitations
+Dynamics 365:	Integration with the Microsoft ecosystem, customizable, AI-driven	Complex setup, expensive, best suited for users within the Microsoft stack
+Pipedrive:	Sales-oriented, user-friendly, cost-effective	Limited features outside sales, less customization options, no free version
 
 ## What analysis processes have you conducted in the past using CRM software?
 In my previous role, I analyzed customer satisfaction in projects and services. We determined customer satisfaction rates using statistics and text analysis from interviews. For example, we discovered that prompt responses are crucial for customer satisfaction. As a result, we set up a reminder to respond to customer messages within 24 hours of receipt. Additionally, I analyzed customer retention rates. We found that customer interaction with us and the time spent using our software could partially predict retention rates. To strengthen customer engagement, we reached out to them through multiple channels, such as WeChat and our internal system.
